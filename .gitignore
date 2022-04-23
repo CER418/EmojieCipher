@@ -2,4 +2,4 @@ venv
 .DS_Store
 .git
 .idea
-EmojieCipher
+__pycache__
