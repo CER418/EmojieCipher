@@ -1,5 +1,5 @@
 # EmojieCipher
-An emoji cipher tool using Python Click.
+An emoji cipher tool using base64 encryption and Python Click.
 
 <img alt="EmojieCipher in use" src="assets/video.gif"></img>
 
