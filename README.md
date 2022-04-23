@@ -11,11 +11,11 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-# returns '🌓🎹🔁🍘📇 👸🌓👸😬👸🏁'
-python main.py encrypt --text "Hello World!" --key 200
+# returns '💯🤑🤖😶🏇🤑🔍🚋🤖🏓💊😟🏇🤑💦🏁'
+python main.py encode --text 'Hello World!'
 
 # returns 'Hello World!'
-python main.py decrypt --text "🌓🎹🔁🍘📇 👸🌓👸😬👸🏁" --key 200
+python main.py decode --text '💯🤑🤖😶🏇🤑🔍🚋🤖🏓💊😟🏇🤑💦🏁'
 
 # List available commands and options
 python main.py
